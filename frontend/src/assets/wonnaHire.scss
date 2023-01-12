@@ -1,0 +1,12 @@
+// NutUI主题定制
+
+// Base
+$primary-color: #6B73FF;
+$primary-color-start: $primary-color;
+$primary-color-end: #000DFF;
+
+
+$button-primary-border-color: $primary-color;
+$button-primary-background-color: linear-gradient(135deg, $primary-color 0%, $primary-color-end 100%);
+$button-info-border-color: rgba(73, 106, 242, 1);
+$button-info-background-color: linear-gradient( 135deg, #81FBB8 10%, #28C76F 100%);;
